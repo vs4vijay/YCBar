@@ -312,6 +312,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 			};
 			name = Release;
@@ -393,6 +394,7 @@
 				70AE9BB41A4726270090A7BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		70AE9BB51A4726270090A7BB /* Build configuration list for PBXNativeTarget "YCBarTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +403,7 @@
 				70AE9BB71A4726270090A7BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
