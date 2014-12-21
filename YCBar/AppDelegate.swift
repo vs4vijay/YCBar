@@ -26,6 +26,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
 
     @IBAction func onShowClick(sender: NSMenuItem) {
+        //ycStatusMenu.addItem(NSMenuItem)
     }
 
 }
